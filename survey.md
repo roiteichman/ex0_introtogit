@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: blue
+Favorite food: Hamburger
+Favorite musician/band: Arik Einstein
+Favorite movie: Ocean 11
+Requested grade in the course: 100
